@@ -20,7 +20,7 @@ Analyzed the data from XYZ organization over the period 2014 to 2017 which conta
 >- This gives an insight that California has the biggest marketplace for this organization.
 
 <p align="center">
-  <img width="400" height="400" src="https://github.com/0EnIgma1/XYZ-Store-Dashboard/blob/main/sheet%203.PNG">
+  <img width="300" height="400" src="https://github.com/0EnIgma1/XYZ-Store-Dashboard/blob/main/sheet%203.PNG">
 </p>
 
 >- This chart shows the sales distribution with respect to Category.
