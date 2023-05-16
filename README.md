@@ -88,14 +88,14 @@ Analyzed the data from XYZ organization over the period 2014 to 2017 which conta
 >- Phones have a gradually increasing profit.
 >- Accessories had their profit in uptrend after 2015 and reached more profit than phones and chairs in the year 2017.
 
-### Visual 11:
+### Dashboard 1:
 <p align="center">
   <img width="800" height="400" src="https://github.com/0EnIgma1/XYZ-Store-Dashboard/blob/main/main.PNG">
 </p>
 
-### Visual 12:
+### Dashboard 2:
 <p align="center">
   <img width="800" height="400" src="https://github.com/0EnIgma1/XYZ-Store-Dashboard/blob/main/explore.PNG">
 </p>
 
-##SUMMARY:
+## SUMMARY:
