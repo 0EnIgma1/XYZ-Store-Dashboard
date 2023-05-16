@@ -3,6 +3,8 @@ Descriptive analysis of an organization 'XYZ' using their data over the period 2
 
 Analyzed the data from XYZ organization over the period 2014 to 2017 which contains Organization's overall sales, profit, category, sub-category, order date,  Country, state.
 
+All Visualizations are made in Tableau.
+
 ### Visual 1:
 
 <p align="center">
@@ -100,9 +102,11 @@ Analyzed the data from XYZ organization over the period 2014 to 2017 which conta
 
 ## SUMMARY:
 - After visualizing the XYZ organization dataset, the following insights and conclusions and obtained:
->- The organization having a stable growth on each year.
->- Major market place for this Organization is California and New York.
->- California has the highest sales and New york has the highest profit.
->- Phones and Chairs has been this organization's major selling product category.
->- This organization has a stable sale and profit on phones. After 2015 Accessories has been an emerging category with highest profit than other categories in 2017.
->- ### Increasing sales in New York will result in increased profit than in California.
+>- ### The organization having a stable growth on each year.
+>- ### Major market place for this Organization is California and New York.
+>- ### California has the highest sales and New york has the highest profit.
+>- ### Phones and Chairs has been this organization's major selling product category.
+>- ### This organization has a stable sale and profit on phones. After 2015 Accessories has been an emerging category with highest profit than other categories in 2017.
+>- ## Increasing sales in New York will result in increased profit than in California.
+
+[Tableau Public Link](https://public.tableau.com/app/profile/naveen8657/viz/Superstore_16842345954100/Explore)
