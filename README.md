@@ -102,11 +102,11 @@ All Visualizations are made in Tableau.
 
 ## SUMMARY:
 - After visualizing the XYZ organization dataset, the following insights and conclusions and obtained:
->- ### The organization having a stable growth on each year.
+>- ### The organization has stable growth on each year.
 >- ### Major market place for this Organization is California and New York.
 >- ### California has the highest sales and New york has the highest profit.
 >- ### Phones and Chairs has been this organization's major selling product category.
 >- ### This organization has a stable sale and profit on phones. After 2015 Accessories has been an emerging category with highest profit than other categories in 2017.
 >- ## Increasing sales in New York will result in increased profit than in California.
 
-[Tableau Public Link](https://public.tableau.com/app/profile/naveen8657/viz/Superstore_16842345954100/Explore)
+# [Tableau Public Link](https://public.tableau.com/app/profile/naveen8657/viz/Superstore_16842345954100/Explore)
