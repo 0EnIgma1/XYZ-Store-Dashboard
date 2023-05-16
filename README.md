@@ -36,3 +36,21 @@ Analyzed the data from XYZ organization over the period 2014 to 2017 which conta
 <p align="center">
   <img width="300" height="300" src="https://github.com/0EnIgma1/XYZ-Store-Dashboard/blob/main/sheet%205.PNG">
 </p>
+
+>- The above Pie chart displays the sub category sales distribution.
+>- Phones has the highest sales among their other products.
+>- This summarizes that XYZ organization's major product would be Phones.
+
+<p align="center">
+  <img width="800" height="400" src="https://github.com/0EnIgma1/XYZ-Store-Dashboard/blob/main/sheet%206.PNG">
+</p>
+
+>- Gives the profit trend of the organization.
+>- XYZ incurred their highest loss on December 2014 and gained max profit on December 2016.
+
+<p align="center">
+  <img width="800" height="400" src="https://github.com/0EnIgma1/XYZ-Store-Dashboard/blob/main/sheet%207.PNG">
+</p>
+
+>- Visualizes the sales impact and profit of each sub category on highest market place California.
+>- phones has the highest sales but Accessories has the highest profit.
