@@ -34,5 +34,5 @@ Analyzed the data from XYZ organization over the period 2014 to 2017 which conta
 >- Several states resulted in loss. 
 
 <p align="center">
-  <img width="800" height="400" src="https://github.com/0EnIgma1/XYZ-Store-Dashboard/blob/main/sheet%205.PNG">
+  <img width="500" height="300" src="https://github.com/0EnIgma1/XYZ-Store-Dashboard/blob/main/sheet%205.PNG">
 </p>
