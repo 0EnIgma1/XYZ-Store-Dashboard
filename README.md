@@ -6,7 +6,7 @@ Analyzed the data from XYZ organization over the period 2014 to 2017 which conta
 ### Visual 1:
 
 <p align="center">
-  <img width="500" height="500" src="https://github.com/0EnIgma1/XYZ-Store-Dashboard/blob/main/sheet%201.PNG">
+  <img width="800" height="500" src="https://github.com/0EnIgma1/XYZ-Store-Dashboard/blob/main/sheet%201.PNG">
 </p>
 
 >- This Chart shows the Sales Trend over the time period 2014 - 2017
