@@ -108,5 +108,6 @@ All Visualizations are made in Tableau.
 >- ### Phones and Chairs has been this organization's major selling product category.
 >- ### This organization has a stable sale and profit on phones. After 2015 Accessories has been an emerging category with highest profit than other categories in 2017.
 >- ## Increasing sales in New York will result in increased profit than in California.
+>- ## Improvise marketing strategy of accessories to reach more people as it's sales and profit is increasing.
 
 # [Tableau Public Link](https://public.tableau.com/app/profile/naveen8657/viz/Superstore_16842345954100/Explore)
